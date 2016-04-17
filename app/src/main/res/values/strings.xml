@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My trigonometry formula</string>
+<color name="white">#FFFFFF</color>
+    <color name="blue">#6fc6f7</color>
+    <color name="green">#80a852</color>
+    <color name="yellow">#f3e686</color>
+    <color name="faded">#c0cfbc</color>
+</resources>
